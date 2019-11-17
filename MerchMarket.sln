@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchMarket", "MerchMarket\MerchMarket.csproj", "{812B4D08-F7EC-4BFF-9C06-D51D4023A306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchMarket.Database", "MerchMarket.Database\MerchMarket.Database.csproj", "{7781E23B-A6C4-4D6F-8B7B-C6E35802622D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchMarket.IDServer", "MerchMarket.IDServer\MerchMarket.IDServer.csproj", "{EA3AC92E-8542-4A50-8E14-A1251D43BDE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchMarket.IDServer.Client", "MerchMarket.IDServer.Client\MerchMarket.IDServer.Client.csproj", "{70878724-6D98-4C92-801F-EF750D41E682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812B4D08-F7EC-4BFF-9C06-D51D4023A306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812B4D08-F7EC-4BFF-9C06-D51D4023A306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812B4D08-F7EC-4BFF-9C06-D51D4023A306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812B4D08-F7EC-4BFF-9C06-D51D4023A306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7781E23B-A6C4-4D6F-8B7B-C6E35802622D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7781E23B-A6C4-4D6F-8B7B-C6E35802622D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7781E23B-A6C4-4D6F-8B7B-C6E35802622D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7781E23B-A6C4-4D6F-8B7B-C6E35802622D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3AC92E-8542-4A50-8E14-A1251D43BDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3AC92E-8542-4A50-8E14-A1251D43BDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3AC92E-8542-4A50-8E14-A1251D43BDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3AC92E-8542-4A50-8E14-A1251D43BDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70878724-6D98-4C92-801F-EF750D41E682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70878724-6D98-4C92-801F-EF750D41E682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70878724-6D98-4C92-801F-EF750D41E682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70878724-6D98-4C92-801F-EF750D41E682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
